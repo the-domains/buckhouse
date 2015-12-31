@@ -1,0 +1,28 @@
+name: buckhouse
+favicon: null
+layout_spectrum: 0.2596455495804548
+typography_spectrum: 0.5017137897666544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8006680067628622
+  lightness: 0.5850741458125412
+  saturation: 0.16622115205973387
+  rhythmicContrast: 0.3913616291247308
+purpose: []
